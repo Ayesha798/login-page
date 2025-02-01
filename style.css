@@ -1,0 +1,145 @@
+#formy{
+    display:flex;
+    flex-direction:column;
+    width:290px;
+    border:2px solid rgb(233, 230, 230);
+    padding:4%;
+    border-radius:3%;
+    margin-left:35%;
+    margin-top:1%;
+    height:200px; 
+}
+.go{
+    background-color:gold;
+    border:none;
+    font-size:15px;
+    border-radius:20px;
+    padding:2%;
+    margin-top:4%; 
+}
+.go:hover{
+    background-color: #e7c502; 
+}
+.text:hover{
+    color:rgb(234, 149, 37); 
+}
+.text1:hover{
+    color:rgb(234, 149, 37);
+}
+.text{
+    color:rgb(22, 127, 127);
+   font-family:"Amazon Ember", Arial, sans-serif; 
+   font-size:13px;
+    margin:1%;
+    text-decoration:none;
+}
+.email{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 110%;   
+}
+.main{
+    font-family:"Amazon Ember", Arial, sans-serif;
+    font-size:25px;
+    font-weight:100;
+    margin-top:0.1%;
+}
+.amazon{
+   border-radius:20px;
+   margin-top:0.1%;
+   margin-bottom:1%;
+   border:2px solid rgb(192, 183, 183);
+   padding-left:5%;
+   padding-right:5%;
+   padding-top:0.3%;
+   padding-bottom:0.3%;
+   background-color:white;
+}
+.amazon:hover{
+    background-color:rgb(239, 233, 233);
+}
+.box{
+    padding:5px;
+    border-radius:5px;
+    border: 1px solid #ccc;
+    margin-top:2%;  
+}
+.box:hover{
+    border:double;
+    border-color:rgb(22, 219, 219);
+    border-width:40%;
+    border-spacing:4px;
+}
+.footer{
+    color:rgb(133, 130, 130);
+}
+.new{
+    margin-top:2%;
+}
+.by{
+    font-family:"Amazon Ember", Arial, sans-serif;
+    font-size:13px;
+}
+.one{
+    margin-top:3%;
+    border-radius:5%;
+
+}
+.two{
+    margin-top:0.5%;
+    border-radius:5%;
+}
+.three{
+    margin-top:3%;
+    border-radius:5%;
+}
+.style{
+    font-family:"Amazon Ember", Arial, sans-serif;;
+    font-size:13px;
+}
+#formy1{
+    display:flex;
+    flex-direction:column;
+    width:300px;
+    height:500px;
+    border:2px solid rgb(233, 230, 230);
+    padding:4%;
+    border-radius:3%;
+    margin-left:35%;
+    margin-top:1%;
+    margin-bottom:3%;   
+}
+.text1{
+    color:rgb(22, 127, 127);
+   font-family:"Amazon Ember", Arial, sans-serif; 
+   font-size:13px;
+   text-decoration:none;
+}
+.account{
+    text-decoration:none;
+    color:black;
+}
+.select{
+    border:none;
+}
+.select1{
+    border:none;
+}
+.mobile{
+    display:block;
+    margin-left:1px;
+    text-decoration:none;
+    border:1px solid transparent;
+    border-radius:5px;
+    width:90px;
+    height:30px;
+    margin-top:2%;
+}
+.fa-solid{
+    color:rgb(0, 179, 255);
+}
+.div{
+    display:flex;
+}
+.mn{
+    margin-left:3%;
+}
